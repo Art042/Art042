@@ -5,7 +5,7 @@
 - 🌱 Atualmente estou aprendendo sobre automações em ciência de dados e banco de dados, deep learning
 - ⚡ Curiosidade: também sou formado em sociologia
 
-<div align="center">
+<div>
   <a href="https://github.com/Art042">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Art042&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Art042&layout=compact&langs_count=7&theme=dark"/>
