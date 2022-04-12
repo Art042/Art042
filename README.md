@@ -1,4 +1,4 @@
-### Olá meu nome é Artur, sou aluno de Sistemas de Informação de um curso da área de TI.
+### Olá meu nome é Artur sou aluno de Sistemas de Informação.
 ### Fique a vontade para comentar e compartilhar 👋
 
 - 🔭 Atualmente estou trabalhando em ciência de dados
