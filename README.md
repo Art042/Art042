@@ -2,13 +2,14 @@
 ### Fique a vontade para comentar e compartilhar 👋
 
 - 🔭 Atualmente estou trabalhando em ciência de dados
-- 🌱 Atualmente estou aprendendo sobre automações em ciência de dados e banco de dados, deep learning
+- 🌱 Atualmente estou aprendendo sobre automações em ciência de dados e banco de dados, deep learning.
+- 📫 Como me contatar: artur.tourinho17@gmail.com
 - ⚡ Curiosidade: também sou formado em sociologia
 
 <div>
   <a href="https://github.com/Art042">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Art042&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Art042&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Art042&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Art042&layout=compact&langs_count=7&theme=dark">
 </div>
  
 <div> 
@@ -22,5 +23,6 @@
 
 - 🔭 I’m currently working on data science
 - 🌱 I’m currently learning about automations on data science and data bases, deep learning
+- 📫 How to reach me: artur.tourinho17@gmail.com
 - ⚡ Fun fact: I'm also have a graduation on sociology
 ----------------------------------------------------------------------------
