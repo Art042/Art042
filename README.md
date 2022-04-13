@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente estou trabalhando em ciência de dados
 - 🌱 Atualmente estou aprendendo sobre automações em ciência de dados e banco de dados, deep learning.
-- 📫 Como me contatar: artur.tourinho17@gmail.com
+- 📫 Como me contatar: artur.tourinho@acad.ifma.edu.br - https://www.linkedin.com/in/artur-tourinho-3997951b9/
 - ⚡ Curiosidade: também sou formado em Ciências Sociais
 
 <div>
@@ -33,6 +33,6 @@
 
 - 🔭 I’m currently working on data science
 - 🌱 I’m currently learning about automations on data science and data bases, deep learning
-- 📫 How to reach me: artur.tourinho17@gmail.com
+- 📫 How to reach me: artur.tourinho@acad.ifma.edu.br - https://www.linkedin.com/in/artur-tourinho-3997951b9/
 - ⚡ Fun fact: I'm also have a graduation in Social Science
 ----------------------------------------------------------------------------
