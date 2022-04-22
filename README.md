@@ -1,7 +1,7 @@
 ### Olá meu nome é Artur sou aluno de Sistemas de Informação.
 ### Fique a vontade para comentar e compartilhar 👋
 
-- 🔭 Atualmente estou trabalhando em ciência de dados
+- 🔭 Atualmente estou trabalhando como cientista de dados
 - 🌱 Atualmente estou aprendendo sobre automações em ciência de dados e banco de dados, deep learning.
 - 📫 Como me contatar: artur.tourinho@acad.ifma.edu.br - https://www.linkedin.com/in/artur-tourinho-3997951b9/
 - ⚡ Curiosidade: também sou formado em Ciências Sociais
