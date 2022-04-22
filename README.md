@@ -24,7 +24,7 @@
 </div> 
 <div> 
   <br>
-  <a href = "artur.tourinho17@gmail.com"><img align="center" alt="email" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "https://mail.google.com/"><img align="center" alt="email" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/artur-tourinho-3997951b9/" target="_blank"><img align="center" alt="linkedin" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 </div>
