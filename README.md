@@ -7,6 +7,7 @@
 - ⚡ Curiosidade: também sou formado em Ciências Sociais
 
 <div>
+  
   <a href="https://github.com/Art042">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Art042&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Art042&layout=compact&langs_count=7&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
@@ -26,8 +27,6 @@
   <br>
   <a href = "https://mail.google.com/"><img align="center" alt="email" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/artur-tourinho-3997951b9/" target="_blank"><img align="center" alt="linkedin" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-</div>
  
 ### Hi there my name is Artur, I'm student of Information Systens a course of IT area.
 ### Feel free to comment and share 👋
