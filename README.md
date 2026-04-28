@@ -1,4 +1,4 @@
-### Olá meu nome é Artur sou aluno de Sistemas de Informação.
+### Olá meu nome é Artur formado Sistemas de Informação.
 ### Fique a vontade para comentar e compartilhar 👋
 
 - 🔭 Atualmente estou trabalhando como analista de dados
